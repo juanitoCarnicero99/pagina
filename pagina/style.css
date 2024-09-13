@@ -1,0 +1,16 @@
+/* Estilos personalizados */
+.bg-primary {
+    background-color: #007bff !important;
+}
+
+.text-white {
+    color: white !important;
+}
+
+.mt-5 {
+    margin-top: 5rem !important;
+}
+
+.mb-5 {
+    margin-bottom: 5rem !important;
+}
